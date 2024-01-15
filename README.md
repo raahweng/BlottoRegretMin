@@ -1,4 +1,6 @@
 # BlottoRegretMin
+Regret Minimisation for the Symmetric Discrete (N,K)-Blotto game
+
 [Nash Equilibria of the Symmetric Continuous and
 Discrete Blotto game in the case of 3 Battlefields](https://github.com/raahweng/BlottoRegretMin/blob/main/BlottoRM.pdf)
 
